@@ -19,4 +19,4 @@ echo -e \\e[47mHello World!!\\e[0m
 
 echo -e \\e[36mHello World!!\\e[2m
 
-echo -e \\e[34mI am Tanjiro..\\e[4m
+echo -e \\e[34mI am Tanjiro\\e[4m
